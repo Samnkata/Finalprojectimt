@@ -5,7 +5,7 @@
 ### About Chelsea FC
 
 - About: Chelsea Football Club is a professional soccer club
-- City: London, England
+- Location: London, England
 - Founded: 1905
 - Stadium: Stamford Bridge
 - Owner: Roman Ibramovich
